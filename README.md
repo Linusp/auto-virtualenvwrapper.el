@@ -1,5 +1,7 @@
 # auto-virtualenvwrapper
 
+[![MELPA](https://melpa.org/packages/auto-virtualenvwrapper-badge.svg)](https://melpa.org/#/auto-virtualenvwrapper)
+
 Automatically activates python virtualenv on emacs using:
 
 * `python-version` file in the project root.
